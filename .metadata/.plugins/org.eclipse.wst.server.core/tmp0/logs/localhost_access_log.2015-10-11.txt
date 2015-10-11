@@ -1,0 +1,5 @@
+127.0.0.1 - - [11/Oct/2015:11:15:42 +0530] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [11/Oct/2015:11:15:48 +0530] "GET /FitnessTracker/addGoal.html HTTP/1.1" 200 788
+127.0.0.1 - - [11/Oct/2015:11:15:55 +0530] "POST /FitnessTracker/addGoal.html HTTP/1.1" 302 -
+127.0.0.1 - - [11/Oct/2015:11:15:56 +0530] "GET /FitnessTracker/addMinutes.html HTTP/1.1" 200 1394
+127.0.0.1 - - [11/Oct/2015:11:15:56 +0530] "GET /FitnessTracker/activities.json?ajax=true HTTP/1.1" 200 59
